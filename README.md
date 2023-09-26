@@ -15,6 +15,7 @@ Information Ghatering in Termux by M
 •sh Informan.sh
 
 # Menu informan
+
 •DNS Lookup
 •Reverse DNS Lookup
 •Whois Lookup
