@@ -15,15 +15,24 @@ Information Ghatering in Termux by M
 •sh Informan.sh
 
 # Menu informan
-
 •DNS Lookup
+
 •Reverse DNS Lookup
+
 •Whois Lookup
+
 •GeoIP Lookup
+
 •Host Finder
+
 •HTTP Header
+
 •Host DNS Finder
+
 •Port Scanner
+
 •Subnet Lookup
+
 •Zone Transfer
+
 •Exatrac Links
